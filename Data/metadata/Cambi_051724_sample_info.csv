@@ -1,0 +1,17 @@
+,sample,internal_sample_id,mouse_id,genotype,sex,age_in_months,age_max
+1,sample1,Cambi_041824_1,"273, 274",AD,female,4,4
+2,sample2,Cambi_041824_2,"275, 278",AD,female,4,4
+3,sample3,Cambi_042324_3,"231, 213",WT,female,"5, 6",6
+4,sample4,Cambi_042324_4,256. 260,WT,male,4.5,4.5
+5,sample5,Cambi_051424-5,"307, 308",AD,male,4.5,4.5
+6,sample6,Cambi_042524_6,"271, 272",AD,male,4,4
+7,sample7,Cambi_042525_7,"176, 269",AD/cKO,male,4,4
+8,sample8,Cambi_042524-8,"255, 256",AD/cKO,female,4.5,4.5
+9,sample9,Cambi_043024_9,"276, 285",AD/cKO,female,4,4
+10,sample10,Cambi_043024-10,"288, 297",AD/cKO,female,4,4
+11,sample11,Cambi_050224_11,"262, 264",cKO,female,4.7,4.7
+12,sample12,Cambi_050224_12,"267, 300",cKO,female,"4, 4.5",4.5
+13,sample13,Cambi_050924_13,"327, 336",cKO,male,4,4
+14,sample14,Cambi_050924_14,"335, 333",cKO,female,4,4
+15,sample15,Cambi_050924_15,"265, 328",WT,male,"5, 6",6
+16,sample16,Cambi_050924_16,"303, 304",WT,female,4.5,4.5
