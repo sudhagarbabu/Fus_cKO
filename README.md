@@ -4,8 +4,7 @@
 This repository contains the analysis code and processed results supporting the following publication:
 
 **Fus-depleted oligodendrocytes reduce neuronal damage and Alzheimer's disease progression in the App<sub>NL-G-F</sub> mouse**  
-*Brain* (2026)  
-https://doi.org/10.1093/brain/awag234
+*Brain* (2026) https://doi.org/10.1093/brain/awag234
 
 ## Data availability
 
