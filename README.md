@@ -9,7 +9,7 @@ https://doi.org/10.1093/brain/awag234
 
 ## Data availability
 
-The raw sequencing and processed data will be made publicly available through the **Gene Expression Omnibus (GEO)**. The GEO accession number will be added to this repository once the GEO submission is publicly released.
+The raw sequencing data and processed data are publicly available through GEO under accession GSE339460.
 
 ## Citation
 
